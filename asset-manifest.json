@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/clickyGame/static/css/main.256cdc3b.chunk.css",
+    "main.js": "/clickyGame/static/js/main.d39fe6b2.chunk.js",
+    "main.js.map": "/clickyGame/static/js/main.d39fe6b2.chunk.js.map",
+    "runtime-main.js": "/clickyGame/static/js/runtime-main.023fb769.js",
+    "runtime-main.js.map": "/clickyGame/static/js/runtime-main.023fb769.js.map",
+    "static/js/2.ff95c248.chunk.js": "/clickyGame/static/js/2.ff95c248.chunk.js",
+    "static/js/2.ff95c248.chunk.js.map": "/clickyGame/static/js/2.ff95c248.chunk.js.map",
+    "index.html": "/clickyGame/index.html",
+    "precache-manifest.3f533abaaaf90d36e8c3b31b47937295.js": "/clickyGame/precache-manifest.3f533abaaaf90d36e8c3b31b47937295.js",
+    "service-worker.js": "/clickyGame/service-worker.js",
+    "static/css/main.256cdc3b.chunk.css.map": "/clickyGame/static/css/main.256cdc3b.chunk.css.map",
+    "static/media/balloons.jpg": "/clickyGame/static/media/balloons.105c4eaf.jpg",
+    "static/media/butterflies.jpg": "/clickyGame/static/media/butterflies.bb297599.jpg",
+    "static/media/candy.jpg": "/clickyGame/static/media/candy.a2e40be1.jpg",
+    "static/media/flower.jpg": "/clickyGame/static/media/flower.6c78409d.jpg",
+    "static/media/ink.jpg": "/clickyGame/static/media/ink.b3fa0f5f.jpg",
+    "static/media/paint.jpg": "/clickyGame/static/media/paint.9635ceb1.jpg",
+    "static/media/pencils.jpg": "/clickyGame/static/media/pencils.fbad98f6.jpg",
+    "static/media/splashes.jpg": "/clickyGame/static/media/splashes.325ae69a.jpg",
+    "static/media/world.jpg": "/clickyGame/static/media/world.ce06ee98.jpg"
+  }
+}
